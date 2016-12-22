@@ -1,0 +1,80 @@
+/* Main navigation */
+
+ul#navlist {
+  margin-left: 0;	/* set the left margin to zero */
+  padding-left: 0;	/* don't padd from the left */
+}
+
+#navlist li {
+  display: inline;	/* display the elements as inline elements, without
+			   linebreaks before or after it */
+  list-style-type: none;
+  line-height: 27px;
+}
+
+#navlist a {
+  padding: 3px 10px;	/* top and bottom padding will be 3px,
+			   left and right padding will be 10px */
+}
+
+#navlist a:link, #navlist a:visited {
+  color: #000;
+  background-color: #d4d4d4;
+  text-decoration: none;
+}
+
+#navlist a:hover {
+  color: #fff;
+  background-color: #53868B;
+  text-decoration: underline;
+}
+
+body {
+  background-color: #FFFFCC;
+}
+
+tr {background-color: #FFFF99;}
+
+.left {text-align: left}
+
+.category {
+  background-color: #FFD39B;
+}
+
+
+/* Lists of games */
+
+.games_list li {
+  list-style-type: none;  
+}
+
+.games_list a:link, .games_list a:visited {
+  text-decoration: none;
+}
+
+.games_list a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+
+/* Lists of software */
+
+.software_list li {
+  list-style-type: none;  
+}
+
+.software_list a:link, .software_list a:visited {
+  text-decoration: none;
+}
+
+.software_list a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+
+h1 {
+  text-align: center;
+  padding: 20px;
+}
