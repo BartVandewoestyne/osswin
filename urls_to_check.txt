@@ -1,0 +1,37 @@
+http://www.digitaldarknet.net/thelist.html
+http://www.osnews.com/story.php?news_id=8072
+
+http://www.feedreader.com/
+
+http://www.parinya.ca/ -> Resources
+http://pauillac.inria.fr/cdrom/www/geneweb/eng.htm
+http://pauillac.inria.fr/cdrom/prog/pc/eng.htm
+http://www.cs.colorado.edu/~tuna/xearth/
+
+MinGW Fortran Compiler:
+http://www.mingw.org/
+
+HTMLtrim = http://sourceforge.net/projects/htmltrim
+TidyUI = http://users.rcn.com/creitzel/tidy.html
+TidyGUI = http://perso.wanadoo.fr/ablavier/TidyGUI/
+
+http://www.doxygen.org
+http://www.research.att.com/~north/graphviz/
+
+http://users.powernet.co.uk/kienzle/octave/
+http://octave.sourceforge.net/
+
+http://www.openwiki.com
+http://www.fullxml.com
+http://sourceforge.net/projects/fullxml
+
+An big list of content management systems (proprietary and OSS):
+http://www.clueful.com.au/cgi-bin/cmsdirectory/browse/Products%3aBy%20Technology
+
+http://www.winsite.com/bin/Info?500000016973
+http://www.winsite.com/tech/html/page5.html
+
+http://mojo.skazat.com/
+
+http://opensource.pagina.nl/
+http://www.digitaldarknet.net/thelist.html
